@@ -1,2 +1,2 @@
 # gentoo-config
-my desktop settings.
+my desktop /etc settings.
