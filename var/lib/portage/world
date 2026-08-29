@@ -1,6 +1,7 @@
 app-admin/sudo
 app-admin/sysklogd
 app-eselect/eselect-repository
+app-misc/keyd
 app-misc/tmux
 app-portage/cpuid2cpuflags
 app-shells/gentoo-zsh-completions
