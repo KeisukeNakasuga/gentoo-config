@@ -5,6 +5,7 @@ app-i18n/mozc
 app-misc/fastfetch
 app-misc/keyd
 app-misc/tmux
+app-office/obsidian
 app-portage/cpuid2cpuflags
 app-shells/gentoo-zsh-completions
 app-shells/zsh
