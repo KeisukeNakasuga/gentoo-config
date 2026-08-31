@@ -3,6 +3,7 @@ app-admin/sudo
 app-admin/sysklogd
 app-eselect/eselect-repository
 app-i18n/mozc
+app-misc/1password-cli
 app-misc/fastfetch
 app-misc/keyd
 app-misc/tmux
@@ -14,6 +15,7 @@ dev-util/claude-code
 dev-vcs/git
 dev-vcs/lazygit
 gnome-base/gnome
+gui-apps/1password
 media-fonts/noto-cjk
 net-misc/chrony
 net-misc/dhcpcd
