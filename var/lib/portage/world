@@ -9,6 +9,7 @@ app-office/obsidian
 app-portage/cpuid2cpuflags
 app-shells/gentoo-zsh-completions
 app-shells/zsh
+dev-util/claude-code
 dev-vcs/git
 dev-vcs/lazygit
 gnome-base/gnome
