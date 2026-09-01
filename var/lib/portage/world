@@ -1,6 +1,9 @@
 app-admin/chezmoi
 app-admin/sudo
 app-admin/sysklogd
+app-containers/docker
+app-containers/docker-cli
+app-containers/docker-compose
 app-editors/neovim
 app-eselect/eselect-repository
 app-i18n/mozc
