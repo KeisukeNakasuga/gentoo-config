@@ -25,6 +25,7 @@ gnome-extra/extension-manager
 gnome-extra/gnome-tweaks
 gui-apps/1password
 media-fonts/noto-cjk
+net-libs/nodejs
 net-misc/chrony
 net-misc/dhcpcd
 net-wireless/bluez
