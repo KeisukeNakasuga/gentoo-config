@@ -15,6 +15,7 @@ app-office/obsidian
 app-portage/cpuid2cpuflags
 app-shells/gentoo-zsh-completions
 app-shells/starship
+app-shells/zoxide
 app-shells/zsh
 dev-util/claude-code
 dev-util/git-delta
