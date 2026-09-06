@@ -4,6 +4,7 @@ app-admin/sysklogd
 app-containers/docker
 app-containers/docker-cli
 app-containers/docker-compose
+app-editors/emacs
 app-editors/neovim
 app-eselect/eselect-repository
 app-i18n/mozc
