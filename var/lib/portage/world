@@ -2,6 +2,7 @@ app-admin/chezmoi
 app-admin/sudo
 app-admin/sysklogd
 app-admin/sysstat
+app-benchmarks/wrk
 app-containers/docker
 app-containers/docker-cli
 app-containers/docker-compose
