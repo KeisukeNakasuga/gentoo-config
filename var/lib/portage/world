@@ -32,6 +32,7 @@ gnome-base/gnome
 gnome-extra/extension-manager
 gnome-extra/gnome-tweaks
 gui-apps/1password
+gui-apps/wl-clipboard
 media-fonts/noto-cjk
 net-analyzer/openbsd-netcat
 net-analyzer/tcpdump
