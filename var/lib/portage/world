@@ -23,6 +23,7 @@ app-shells/starship
 app-shells/zoxide
 app-shells/zsh
 dev-debug/strace
+dev-java/openjdk-bin:25
 dev-util/claude-code
 dev-util/git-delta
 dev-util/perf
