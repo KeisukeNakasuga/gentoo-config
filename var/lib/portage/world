@@ -3,6 +3,7 @@ app-admin/sudo
 app-admin/sysklogd
 app-admin/sysstat
 app-arch/zip
+app-benchmarks/hyperfine
 app-benchmarks/wrk
 app-containers/docker
 app-containers/docker-cli
